@@ -1,6 +1,5 @@
 <div>
-  <img height="180em" src="https://cdn.discordapp.com/attachments/1082474585359921242/1086876033275404330/imgp2.png" alt="imgp1-icon">
-  <img height="180em" src="https://cdn.discordapp.com/attachments/1082474585359921242/1086875606878257172/imgp.png" alt="imgp2-icon">
+  <img height="180em" src="https://i.pinimg.com/originals/a8/e9/c4/a8e9c4e80dc3570aabce75411a1f3e1f.gif" alt="imgp1-icon">
 </div><br><br>
 
 <div style="display: inline-block;">
