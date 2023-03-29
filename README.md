@@ -13,10 +13,9 @@
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-icon">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-icon">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="an-icon">
-  <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-icon">
-  <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trll-icon">
+  <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bs-icon">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="fig-icon">
-  <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canv-icon"><br><br>
+  <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-icon"><br><br>
   <img align:"center" height="60" src="https://cdn-icons-png.flaticon.com/512/3429/3429417.png" alt="pf-icon">
   <img align:"center" height="50" src="https://cdn-icons-png.flaticon.com/512/330/330430.png" alt="brzl-icon">
 </div>
