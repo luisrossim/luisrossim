@@ -15,10 +15,14 @@
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="an-icon">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bs-icon">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="fig-icon">
-  <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-icon"><br><br>
+  <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-icon"><br>
 </div>
 
+#
+
+<br>
 <div align="center">  
-  <img height="200px" src="https://cdn-icons-png.flaticon.com/512/330/330430.png" alt="brzl-icon">
+  <img height="190px" src="https://cdn-icons-png.flaticon.com/512/3429/3429417.png" alt="perf-icon">
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrossim&layout=compact&hide_border=true&title_color=c7c7c7&text_color=cccccc&bg_color=0d1117" />
 </div>
+<br>
