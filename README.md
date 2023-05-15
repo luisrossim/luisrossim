@@ -15,7 +15,7 @@
 #
 
 ### 🌐 Technologies
-<div align="center" style="display: inline-block;">
+<div style="display: inline-block;">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-icon">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="py-icon">
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c-icon">
@@ -34,6 +34,6 @@
   <img align:"center" height="30" width:"40" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql-icon">
   <br>
 </div><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrossim&layout=donut&theme=dark&border_radius=1.0&bg_color=171717&border_color=282828" alt="stats">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrossim&layout=donut&theme=tokyonight&border_radius=1.0&border_color=303030" alt="stats">
 </div>
